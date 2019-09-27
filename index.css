@@ -1,0 +1,24 @@
+h1 {
+    color: red;
+}
+p {
+    color: brown;
+}
+#selected {
+color: green;
+border: 1px solid black;
+position: sticky;
+}
+.underline {
+    text-decoration: underline;
+}
+p:hover {
+    color: aquamarine;
+}
+p::first-letter {
+    font-size: 2em;
+}
+body {
+    border: 1px solid black;
+    margin: auto;
+}
